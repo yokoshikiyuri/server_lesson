@@ -4,11 +4,11 @@
 - cd
 - mkdir
 - touch
-- &&
+- &amp;&amp;
 - cp
 - mv
 - rm
 - cat
-- >
-- >>
+- &gt;
+- &gt;&gt;
 - vi
